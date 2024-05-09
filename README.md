@@ -4,7 +4,7 @@
                .OMMMMo           OS: macOS 14.2.1 23C71 arm64 
                OMMM0,            Host: MacBookPro18,3 
      .;loddo:' loolloddol;.      Kernel: 23.2.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 26 days, 17 hours, 32 mins 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 15 years 8 months 16 days 0 hrs 18 mins 
  .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 3 (port), 173 (brew) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9 
 ;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1512x982 
