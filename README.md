@@ -1,13 +1,13 @@
 ```
-                    c.           szeremeta@Alexanders-MacBook-Pro-5.local
+                    c.           szeremeta@Alexanders-MacBook-Pro.local
                  ,xNMM.          ---------------------------------------- 
-               .OMMMMo           OS: macOS 14.2.1 23C71 arm64 
+               .OMMMMo           OS: macOS 15.2 24C5057p arm64
                OMMM0,            Host: MacBookPro18,3 
      .;loddo:' loolloddol;.      Kernel: 23.2.0 
-   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 15 years 8 months 16 days 0 hrs 18 mins 
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 3 (port), 173 (brew) 
+   cKMMMMMMMMMMNWMMMMMMMMMM0:    Uptime: 16 years 2 months 1 day 18 hours and 7 minutes 
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.    Packages: 3 (port), 180 (brew) 
  XMMMMMMMMMMMMMMMMMMMMMMMX.      Shell: zsh 5.9 
-;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1512x982 
+;MMMMMMMMMMMMMMMMMMMMMMMM:       Resolution: 1800x1169
 :MMMMMMMMMMMMMMMMMMMMMMMM:       Pronouns: he/him
 .MMMMMMMMMMMMMMMMMMMMMMMMX.      Specialty: Information Technology & Information Systems
  kMMMMMMMMMMMMMMMMMMMMMMMMWd.    Languages: English, French, Ukrainian, Java (not fluent in any of them)
